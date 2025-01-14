@@ -1,5 +1,5 @@
 # AIconversation
-A program that uses llama to make 2 AI speak to each other. Currently It can only run 2 locally run AI models but I have plans to allow for non loal large language models to be used. 
+A program that uses Ollama to make 2 AI speak to each other. Currently It can only run 2 locally run AI models but I have plans to allow for non loal large language models to be used. 
 
 
 # Requirements
