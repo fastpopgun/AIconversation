@@ -8,6 +8,9 @@ Python 3.12.1 or later. (might work on older versions but I havent tested it.)
 
 This program requires Ollama https://ollama.com/
 
+after installing Ollama if you dont know what you are doing, make sure to run "Ollama pull llama3.2:3b". If you know what you are doing this program should work with any LLM compattable with Ollama, just make sure
+to set the correct model in the config file.
+
 Python package requirements:
 -datetime
 -colorama
