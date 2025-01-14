@@ -1,0 +1,19 @@
+,Endtag,,
+
+Starttag,,
+
+AI_1_Model,llama3.2:3b,
+
+AI_2_Model,llama3.2:3b,
+
+output_file,\output.txt,
+
+Output_to_file,False,
+
+Print_AI_Memory_len,True,
+
+Print_AI_Memory,False,
+
+Max_Conversation_storage,20,
+
+Initial_Prompt, The next thing that you say will be sent to another AI chat model. Please introduce yourself to the other model.
